@@ -45,8 +45,6 @@ Built with Flask WTForms and SQL Alchemy additon to Python + Flask.
 [stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
 [issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
@@ -74,5 +72,4 @@ Built with Flask WTForms and SQL Alchemy additon to Python + Flask.
 [python-url]: https://www.python.org/
 [postgresql.org]: https://img.shields.io/badge/-PostgreSQL-F5F5F5?style=for-the-badge&logo=postgresql
 [postgresql-url]: https://www.postgresql.org/
-[license-img]: https://img.shields.io/apm/l/l
 [License-img]:https://img.shields.io/badge/license-MIT-blue
