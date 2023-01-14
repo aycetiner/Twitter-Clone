@@ -32,7 +32,7 @@ Built with Flask WTForms and SQL Alchemy additon to Python + Flask.
 
 ## License
 
-[![MIT License][License-img]](https://github.com/aycetiner/database-dj/blob/main/LICENSE)
+[![MIT License][License-img]](https://github.com/aycetiner/twitter-clone/blob/main/LICENSE)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
